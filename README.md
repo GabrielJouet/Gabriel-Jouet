@@ -9,6 +9,10 @@ My proudest (and cleaner) works are available on my itch.io profile: <https://ga
 ## Wild Box Studio
 Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try to make game design, game art and game development more accessible to everybody and share our (basic) knowledge of the video game industry.  
 By combining our experiences and our IT Engineering courses we are able to create prototypes, even if none of us is an artist.  
+You can find some of our club members on itch.io:  
+* Antonin (Garks): <https://sheepybullet.itch.io/>
+* Valentin (sydiko): <https://sydiko.itch.io/>
+* François (Ectomorphe): <https://ectomorphe.itch.io/>
 
 ## My Experiences
 Like I have said before, I am an IT Engineering student at CESI in Lille currently in my fourht year out of five.  
