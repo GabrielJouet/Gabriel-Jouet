@@ -1,4 +1,3 @@
-![Personal banner](Gab Project Box Itch Banner.png)  
 <img src="Gab Project Box Itch Banner.png" alt="hi" class="inline"/>
 
 ## Who I am?
