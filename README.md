@@ -1,4 +1,4 @@
-<img src="Gab Project Box Itch Banner.png" alt="hi" class="inline"/>
+<img src="Gab Banner.png" alt="hi" class="inline"/>
 
 ## Who I am?
 I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.  
