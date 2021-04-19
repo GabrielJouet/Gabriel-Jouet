@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="Style.css">
-<img src="Gab Banner.png" alt="hi" class="center"/>
+<img src="Gab Banner.png" alt="hi" class="figure"/>
 
 ## Who I am?
 I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.  
