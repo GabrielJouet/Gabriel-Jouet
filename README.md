@@ -2,22 +2,25 @@
 <img src="Gab Banner.png" alt="hi" class="figure"/>
 
 ## Who I am?
+<p class="paragraph">
 I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.  
 I spent most of my personnal time developing video games with the game engine Unity (I was using Game Maker Sutdio 2 before). I do not work alone, I created in 2017 with Antonin Jacob (check its works! <https://sheepybullet.itch.io/>) a video game development club called Wild Box Studio.  
 Most of my works and prototypes are related to Wild Box Studio, even if I make some prototypes (and write some novels) alone.  
 My proudest (and cleaner) works are available on my itch.io profile: <https://gabriel-jouet.itch.io/>  
-
+</p>
 
 ## Wild Box Studio
+<p class="paragraph">
 Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try to make game design, game art and game development more accessible to everybody and share our (basic) knowledge of the video game industry.  
 By combining our experiences and our IT Engineering courses we are able to create prototypes, even if none of us is an artist.  
 You can find some of our club members on itch.io:  
 * Antonin (Sheepy Bullet): <https://sheepybullet.itch.io/>
 * Valentin (sydiko): <https://sydiko.itch.io/>
 * François (Ectomorphe): <https://ectomorphe.itch.io/>
-
+</p>
 
 ## My Experiences
+<p class="paragraph">
 Like I have said before, I am an IT Engineering student at CESI in Lille currently in my fourht year out of five.  
 Our school wants us to make multiple internships, so did I.  
 
@@ -32,9 +35,10 @@ During this internship, I have to develop and create a new tool for the company 
 
 From September 2018 to November 2018 I have a position of Symfony Developer at Cube Solution in Seclin, France during 8 weeks.  
 This was my first internship, with one of my colleagues (Antonin Jacob, the one that founded with me Wild Box Studio) we worked on a new tool for Nord Avenir Technologies with Symfony 4.
-
+</p>
 
 ## My Works
+<p class="paragraph">
 Although I work mainly on Unity for three years now, I tried other engines at my beginning like RPG Maker and Game Maker Studio 2.  
 RPG Maker was too restrictive for me and my only work with it was a JRPG with few leves without any combat or anythng really interesting. I was mainly doing arts and design (level design and enemy sketches with François (Ectomorphe).
 
@@ -57,3 +61,4 @@ I was in charge of game design, level design and development. Valentin (sydiko) 
 <img src="Wild Fibers.png" alt="hi" class="center"/>  
 My biggest project ever made is a Tower Defense where you play as plants that needs to defend themselves against insects. This is my biggest project by far, the project begin in May 2020 and is still going.  
 I am charged of development, design and additional graphics if needed (I made every insect for example). My friend sydiko is level designing and drawing every other arts.  
+</p>
