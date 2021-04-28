@@ -6,6 +6,9 @@
 	I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.
 	I spent most of my personnal time developing video games with the game engine Unity (I was using Game Maker Sutdio 2 before). I do not work alone, I created in 2017 with Antonin Jacob (check its works! <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
 	Most of my works and prototypes are related to Wild Box Studio, even if I make some prototypes (and write some novels) alone.
+
+	<br>
+
 	My proudest (and cleaner) works are available on my itch.io profile: <a href = "https://gabriel-jouet.itch.io/">gabriel-jouet.itch.io</a>
 </p>
 
@@ -57,6 +60,8 @@
 	RPG Maker was too restrictive for me and my only work with it was a JRPG with few leves without any combat or anythng really interesting. I was mainly doing arts and design (level design and enemy sketches with François (Ectomorphe).
 </p>
 
+
+<h4>Earth's Disaster</h4>
 <p class="paragraph">
 	<img src="Earth's Disaster.png" alt="hi" class="center"/>
 
@@ -67,6 +72,8 @@
 	This project took us a very long time because we were focused on our IT Engineering school at the same time and we were both learning alone. Sheepy Bullet was learning how to make pixel art and animation and I was learning how to use object-oriented programmation.
 </p>
 
+
+<h4>Space Destructor</h4>
 <p class="paragraph">
 	<img src="Space Destructor.png" alt="hi" class="center"/>
 
@@ -80,6 +87,7 @@
 <a href = "https://gabriel-jouet.itch.io/space-destructor/" class = "end-paragraph-link">If you want to test it!</a>
 
 
+<h4>Four Dungeons</h4>
 <p class="paragraph">
 	<img src="Four Dungeons.png" alt="hi" class="center"/>
 
@@ -92,6 +100,7 @@
 <a href = "https://sydiko.itch.io/four-dungeons"  class = "end-paragraph-link">If you want to test it!</a>   
 
 
+<h4>Wild Fibers</h4>
 <p class="paragraph">
 	<img src="Wild Fibers.png" alt="hi" class="center"/>
 
