@@ -9,6 +9,7 @@ Most of my works and prototypes are related to Wild Box Studio, even if I make s
 My proudest (and cleaner) works are available on my itch.io profile: <a href = "https://gabriel-jouet.itch.io/">gabriel-jouet.itch.io</a>  
 </p>
 
+
 ## Wild Box Studio
 <p class="paragraph">
 Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try to make game design, game art and game development more accessible to everybody and share our (basic) knowledge of the video game industry.  
@@ -21,23 +22,29 @@ You can find some of our club members on itch.io:
 </ul>
 </p>
 
+
 ## My Experiences
 <p class="paragraph">
 Like I have said before, I am an IT Engineering student at CESI in Lille currently in my fourht year out of five.  
 Our school wants us to make multiple internships, so did I.  
+<br>
 
 My most recent experience started in September 2020 to January 2021, I have a position of Gameplay Programmer at 1492 Studio (part of Ubisoft Paris Mobile) in Montreuil, France during 22 weeks.  
 I mainly worked with PHP for their API and their server-side authentification. At the middle of my internship I was prompted to rework and improve their tracking system with Unity inside the new studio game: Is It Love? Stories.  
+<br>
 
 From January 2020 to April 2020 I have a position of Game Developer at YS Interactive in Valenciennes, France during 14 weeks.  
 I developed several mini-games with Unity in order to test cognitive skills (a hidden object game with graduating difficulty for example). With these skills I designed a new UI system that displayed cognitive skills for the player.
+<br>
 
 From April 2019 to June 2019 I have a position of Web Developer at AREP FRESC in Roubaix, France during 12 weeks.  
 During this internship, I have to develop and create a new tool for the company with one of my colleague. We develop a web-based tool with Symfony 4 and managed presentations and resources management.  
+<br>
 
 From September 2018 to November 2018 I have a position of Symfony Developer at Cube Solution in Seclin, France during 8 weeks.  
 This was my first internship, with one of my colleagues (Antonin Jacob, the one that founded with me Wild Box Studio) we worked on a new tool for Nord Avenir Technologies with Symfony 4.
 </p>
+
 
 ## My Works
 <p class="paragraph">
