@@ -61,7 +61,7 @@
 </p>
 
 
-<h4>Earth's Disaster</h4>
+### Earth's Disaster
 <p class="paragraph">
 	<img src="Earth's Disaster.png" alt="hi" class="center"/>
 
@@ -73,7 +73,7 @@
 </p>
 
 
-<h4>Space Destructor</h4>
+### Space Destructor
 <p class="paragraph">
 	<img src="Space Destructor.png" alt="hi" class="center"/>
 
@@ -87,7 +87,7 @@
 <a href = "https://gabriel-jouet.itch.io/space-destructor/" class = "end-paragraph-link">If you want to test it!</a>
 
 
-<h4>Four Dungeons</h4>
+### Four Dungeons
 <p class="paragraph">
 	<img src="Four Dungeons.png" alt="hi" class="center"/>
 
@@ -100,7 +100,7 @@
 <a href = "https://sydiko.itch.io/four-dungeons"  class = "end-paragraph-link">If you want to test it!</a>   
 
 
-<h4>Wild Fibers</h4>
+### Wild Fibers
 <p class="paragraph">
 	<img src="Wild Fibers.png" alt="hi" class="center"/>
 
