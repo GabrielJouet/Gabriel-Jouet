@@ -14,11 +14,11 @@ My proudest (and cleaner) works are available on my itch.io profile: <a href = "
 Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try to make game design, game art and game development more accessible to everybody and share our (basic) knowledge of the video game industry.  
 By combining our experiences and our IT Engineering courses we are able to create prototypes, even if none of us is an artist.  
 You can find some of our club members on itch.io:  
-<ol>
+<ul>
 	<li> Antonin (Sheepy Bullet): <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a></li>
 	<li> Valentin (sydiko): <a href = "https://sydiko.itch.io/">sydiko.itch.io</a></li>
 	<li> François (Ectomorphe): <a href = "https://ectomorphe.itch.io/">ectomorphe.itch.io</a></li>
-</ol>
+</ul>
 </p>
 
 ## My Experiences
@@ -47,6 +47,7 @@ RPG Maker was too restrictive for me and my only work with it was a JRPG with fe
 
 <p class="paragraph">
 <img src="Earth's Disaster.png" alt="hi" class="center"/>  
+<br>
 My second project was a metroidvania in a sci-fi scene. After more than a year and a half of development with my friend Antonin (Sheepy Bullet) we stop this project for a more adaptative and less-limited engine: Unity.  
 During this project I was mainly doing level design, story writing and developing.  
 This project took us a very long time because we were focused on our IT Engineering school at the same time and we were both learning alone. Sheepy Bullet was learning how to make pixel art and animation and I was learning how to use object-oriented programmation.
@@ -54,6 +55,7 @@ This project took us a very long time because we were focused on our IT Engineer
 
 <p class="paragraph">
 <img src="Space Destructor.png" alt="hi" class="center"/>  
+<br>
 My first real project on Unity was a bullet hell with endless waves of enemies. (Several other projects were developed but are either not very interesting or too ugly to watch)  
 This project was done under three weeks, although several versions were (re) done in order to improve QoL.  
 I was working alone on this project, but, one of the member of Wild Box helped me with the music theme.  
@@ -63,6 +65,7 @@ I was working alone on this project, but, one of the member of Wild Box helped m
 
 <p class="paragraph">
 <img src="Four Dungeons.png" alt="hi" class="center"/>  
+<br>
 My second project on Unity was a Roguelite created for a game jam. This game jam took place from Mars 2020 to Avril 2020, the goal was to develop a roguelite under a month.  
 I was in charge of game design, level design and development. Valentin (sydiko) was sketching and drawing level tilesets and traps whereas another friend was helping developing with me.  
 </p>
@@ -71,6 +74,7 @@ I was in charge of game design, level design and development. Valentin (sydiko) 
 
 <p class="paragraph">
 <img src="Wild Fibers.png" alt="hi" class="center"/>  
+<br>
 My biggest project ever made is a Tower Defense where you play as plants that needs to defend themselves against insects. This is my biggest project by far, the project begin in May 2020 and is still going.  
 I am charged of development, design and additional graphics if needed (I made every insect for example). My friend sydiko is level designing and drawing every other arts.  
 </p>
