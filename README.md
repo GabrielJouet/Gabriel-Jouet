@@ -15,7 +15,7 @@
 
 ## Wild Box Studio
 <p class="paragraph">
-	Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try to make game design, game art and game development more accessible to everybody and share our (basic) knowledge of the video game industry.
+	Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try making and developing games with our (basic) knowledge of the video game industry. 
 	By combining our experiences and our IT Engineering courses we are able to create small prototypes, even if none of us is an artist.
 	If you need more pieces of information, you can check our Wild Box Studio page: <a href = "https://wild-box-studio.github.io/Wild-Box-Studio/">Wild-Box-Studio.github.io</a>.
 
