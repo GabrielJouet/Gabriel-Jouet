@@ -4,8 +4,8 @@
 ## Who I am?
 <p class="paragraph">
 	I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.
-	I spent most of my personnal time developing video games with the game engine Unity (I was using Game Maker Sutdio 2 before). I do not work alone, I created in 2017 with Antonin Jacob (check its works! <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
-	Most of my works and prototypes are related to Wild Box Studio, even if I make some prototypes (and write some novels) alone.
+	I spent most of my personnal time developing video games with the game engine Unity (I was using Game Maker Sutdio 2 before). Hopefully, I do not work alone, I created in 2017 with Antonin Jacob (check its works! <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
+	Most of my works and prototypes are related to this club, even if I make some prototypes (and write some novels) alone.
 
 	<br>
 
@@ -16,7 +16,11 @@
 ## Wild Box Studio
 <p class="paragraph">
 	Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try to make game design, game art and game development more accessible to everybody and share our (basic) knowledge of the video game industry.
-	By combining our experiences and our IT Engineering courses we are able to create prototypes, even if none of us is an artist.
+	By combining our experiences and our IT Engineering courses we are able to create small prototypes, even if none of us is an artist.
+	If you need more pieces of information, you can check our Wild Box Studio page: <a href = "https://wild-box-studio.github.io/Wild-Box-Studio/">Wild-Box-Studio.github.io</a>.
+
+	<br>
+
 	You can find some of our club members on itch.io:  
 	<ul>
 		<li> Antonin (Sheepy Bullet): <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a></li>
@@ -69,6 +73,9 @@
 
 	My second project was a metroidvania in a sci-fi scene. After more than a year and a half of development with my friend Antonin (Sheepy Bullet) we stop this project for a more adaptative and less-limited engine: Unity.
 	During this project I was mainly doing level design, story writing and developing.
+
+	<br>
+
 	This project took us a very long time because we were focused on our IT Engineering school at the same time and we were both learning alone. Sheepy Bullet was learning how to make pixel art and animation and I was learning how to use object-oriented programmation.
 </p>
 
@@ -81,6 +88,9 @@
 
 	My first real project on Unity was a bullet hell with endless waves of enemies. (Several other projects were developed but are either not very interesting or too ugly to watch)
 	This project was done under three weeks, although several versions were (re) done in order to improve QoL.
+
+	<br>
+
 	I was working alone on this project, but, one of the member of Wild Box helped me with the music theme.
 </p>
 
@@ -94,6 +104,9 @@
 	<br>
 
 	My second project on Unity was a Roguelite created for a game jam. This game jam took place from Mars 2020 to Avril 2020, the goal was to develop a roguelite under a month.
+
+	<br>
+
 	I was in charge of game design, level design and development. Valentin (sydiko) was sketching and drawing level tilesets and traps whereas another friend was helping developing with me.
 </p>
 
@@ -107,5 +120,8 @@
 	<br>
 
 	My biggest project ever made is a Tower Defense where you play as plants that needs to defend themselves against insects. This is my biggest project by far, the project begin in May 2020 and is still going.
+
+	<br>
+
 	I am charged of development, design and additional graphics if needed (I made every insect for example). My friend sydiko is level designing and drawing every other arts.
 </p>
