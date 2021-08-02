@@ -4,29 +4,25 @@
 ## Who I am?
 <p class="paragraph">
 	I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.
-	I spent most of my personnal time developing video games with the game engine Unity (I was using Game Maker Sutdio 2 before). Hopefully, I do not work alone, I created in 2017 with Antonin Jacob (check its works! <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
-	Most of my works and prototypes are related to this club, even if I make some prototypes (and write some novels) alone.
+	I spent most of my personnal time developing video games with the game engine Unity, however, my first projects was created using Game Maker Studio 2 band RPG Maker VX Ace, but these engines were too restrictive for us. 
+	Hopefully, I do not work alone, I created in 2017 with Antonin Jacob (do not hesitate to check its work too <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
+	Most of my works and prototypes are related to this club, even if I make some prototypes (and write some novels and role playing games) alone.
+	I am making these projects as a hobbyist because game development is not a part of my IT engineering courses.
+</p>
 
-	<br>
-
-	My proudest (and cleaner) works are available on my itch.io profile: <a href = "https://gabriel-jouet.itch.io/">gabriel-jouet.itch.io</a>
+<p class="end-paragraph-link">
+	<a href = "https://gabriel-jouet.itch.io/">Itch.io</a> |
+	<a href = "https://www.linkedin.com/in/gabriel-jouet-2909aa15a/">LinkedIn</a> |
+	<a href = "https://github.com/GabrielJouet">GitHub</a>
 </p>
 
 
 ## Wild Box Studio
 <p class="paragraph">
-	Wild Box Studio is a video game development club I create with Antonin Jacob in 2017. We try making and developing games with our (basic) knowledge of the video game industry. 
-	By combining our experiences and our IT Engineering courses we are able to create small prototypes, even if none of us is an artist.
-	If you need more pieces of information, you can check our Wild Box Studio page: <a href = "https://wild-box-studio.github.io/Wild-Box-Studio/">Wild-Box-Studio.github.io</a>.
-
-	<br>
-
-	You can find some of our club members on itch.io:  
-	<ul>
-		<li> Antonin (Sheepy Bullet): <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a></li>
-		<li> Valentin (sydiko): <a href = "https://sydiko.itch.io/">sydiko.itch.io</a></li>
-		<li> François (Ectomorphe): <a href = "https://ectomorphe.itch.io/">ectomorphe.itch.io</a></li>
-	</ul>
+	Wild Box Studio is a video game development club I created with <a href ="https://www.linkedin.com/in/antonin-jacob-lille/">Antonin Jacob</a> in 2017. 
+	We try making and developing games with our basic knowledge of the video game industry. 
+	By combining our experiences, skills and our IT Engineering courses we are able to create small playable prototypes as hobbyists.
+	If you need more pieces of information, you can check our Wild Box Studio GitHub page: <a href = "https://wild-box-studio.github.io/Wild-Box-Studio/">Wild-Box-Studio.github.io</a>.
 </p>
 
 
@@ -36,92 +32,91 @@
 	Our school wants us to make multiple internships, so did I.
 	<ul>
 		<li>
-			My most recent experience started in September 2020 to January 2021, I have a position of Gameplay Programmer at 1492 Studio (part of Ubisoft Paris Mobile) in Montreuil, France during 22 weeks.
-			I mainly worked with PHP for their API and their server-side authentification. At the middle of my internship I was prompted to rework and improve their tracking system with Unity inside the new studio game: Is It Love? Stories.
+			From September 2020 to January 2021, I have a position of Gameplay Programmer at Ubisoft Paris Mobile in Montreuil, France during 5 months and a half.
+			I mainly worked with PHP for their API and their server-side authentification, then I reworked and improved their tracking system with Unity.
 		</li>
 
 		<li>
-			From January 2020 to April 2020 I have a position of Game Developer at YS Interactive in Valenciennes, France during 14 weeks.
-			I developed several mini-games with Unity in order to test cognitive skills (a hidden object game with graduating difficulty for example). With these skills I designed a new UI system that displayed cognitive skills for the player.
+			From January 2020 to April 2020 I have a position of Game Developer at YS Interactive in Valenciennes, France during 3 months and a half.
+			I developed several mini-games with Unity in order to test cognitive skills.
 		</li>
 
 		<li>
-			From April 2019 to June 2019 I have a position of Web Developer at AREP FRESC in Roubaix, France during 12 weeks.
-			During this internship, I have to develop and create a new tool for the company with one of my colleague. We develop a web-based tool with Symfony 4 and managed presentations and resources management.
+			From April 2019 to June 2019 I have a position of Web Developer at AREP FRESC in Roubaix, France during 3 months.
+			I developped a web-based tool with Symfony 4 and managed presentations and resources management.
 		</li>
 
 		<li>
-			From September 2018 to November 2018 I have a position of Symfony Developer at Cube Solution in Seclin, France during 8 weeks.
-			This was my first internship, with one of my colleagues (Antonin Jacob, the one that founded with me Wild Box Studio) we worked on a new tool for Nord Avenir Technologies with Symfony 4.
+			From September 2018 to November 2018 I have a position of Symfony Developer at Cube Solution in Seclin, France during 2 months.
+			I worked on a new web tool for Nord Avenir Technologies with Symfony 4.
 		</li>
 	</ul>
 </p>
 
 
 ## My Works
+### Juan y Carlos
+<img src="Wild Fibers.png" alt="hi" class="center"/>
+
 <p class="paragraph">
-	Although I work mainly on Unity for three years now, I tried other engines at my beginning like RPG Maker and Game Maker Studio 2.
-	RPG Maker was too restrictive for me and my only work with it was a JRPG with few leves without any combat or anythng really interesting. I was mainly doing arts and design (level design and enemy sketches with François (Ectomorphe).
+	My latest project is a cooperative puzzle game jam project made for the <a href="https://itch.io/jam/gmtk-2021">GMTK Game Jam 2021</a>. It was created under 48 hours in June 2021 with 3 of my colleagues.
 </p>
 
-
-### Earth's Disaster
 <p class="paragraph">
-	<img src="Earth's Disaster.png" alt="hi" class="center"/>
-
-	<br>
-
-	My second project was a metroidvania in a sci-fi scene. After more than a year and a half of development with my friend Antonin (Sheepy Bullet) we stop this project for a more adaptative and less-limited engine: Unity.
-	During this project I was mainly doing level design, story writing and developing.
-
-	<br>
-
-	This project took us a very long time because we were focused on our IT Engineering school at the same time and we were both learning alone. Sheepy Bullet was learning how to make pixel art and animation and I was learning how to use object-oriented programmation.
+	I was in charge of developing enemies, building environment and level design.
 </p>
 
-
-### Space Destructor
-<p class="paragraph">
-	<img src="Space Destructor.png" alt="hi" class="center"/>
-
-	<br>
-
-	My first real project on Unity was a bullet hell with endless waves of enemies. (Several other projects were developed but are either not very interesting or too ugly to watch)
-	This project was done under three weeks, although several versions were (re) done in order to improve QoL.
-
-	<br>
-
-	I was working alone on this project, but, one of the member of Wild Box helped me with the music theme.
-</p>
-
-<a href = "https://gabriel-jouet.itch.io/space-destructor/" class = "end-paragraph-link">If you want to test it!</a>
-
-
-### Four Dungeons
-<p class="paragraph">
-	<img src="Four Dungeons.png" alt="hi" class="center"/>
-
-	<br>
-
-	My second project on Unity was a Roguelite created for a game jam. This game jam took place from Mars 2020 to Avril 2020, the goal was to develop a roguelite under a month.
-
-	<br>
-
-	I was in charge of game design, level design and development. Valentin (sydiko) was sketching and drawing level tilesets and traps whereas another friend was helping developing with me.
-</p>
-
-<a href = "https://sydiko.itch.io/four-dungeons"  class = "end-paragraph-link">If you want to test it!</a>   
+<a href = "https://sydiko.itch.io/juan-y-carlos" class="end-paragraph-link">Itch.io page</a>  
 
 
 ### Wild Fibers
+<img src="Wild Fibers.png" alt="hi" class="center"/>
+
 <p class="paragraph">
-	<img src="Wild Fibers.png" alt="hi" class="center"/>
-
-	<br>
-
-	My biggest project ever made is a Tower Defense where you play as plants that needs to defend themselves against insects. This is my biggest project by far, the project begin in May 2020 and is still going.
-
-	<br>
-
-	I am charged of development, design and additional graphics if needed (I made every insect for example). My friend sydiko is level designing and drawing every other arts.
+	My biggest project so far is a Tower Defense where you play as plants that needs to defend themselves against hungry insects. This project begins in May 2020 and is still going. I am working with one colleague.
 </p>
+
+<p class="paragraph">
+	I am in charge of development, design and additional graphics if needed.
+</p>
+
+<div class="end-paragraph-link">The project is not ready yet</div>
+
+
+### Four Dungeons
+<img src="Four Dungeons.png" alt="hi" class="center"/>
+<p class="paragraph">
+	My second biggest project on Unity is a Roguelite created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam. It was created in a month on March 2020 with 2 of my colleagues.
+</p>
+
+<p class="paragraph">
+	I was in charge of level design and development.
+</p>
+
+<a href = "https://sydiko.itch.io/four-dungeons"  class="end-paragraph-link">Itch.io page</a> 
+
+
+### Space Destructor
+<img src="Space Destructor.png" alt="hi" class="center"/>
+<p class="paragraph">
+	My first completed project on Unity was a bullet hell with endless waves of enemies. It was done under two months in July 2019 and helped me to understand Unity.
+</p>
+
+<p class="paragraph">
+	I was working alone on this project, but, one of the member of Wild Box helped me with the music theme.
+</p>
+
+<a href = "https://gabriel-jouet.itch.io/space-destructor/" class = "end-paragraph-link">Itch.io page</a>  
+
+
+### Earth's Disaster
+<img src="Earth's Disaster.png" alt="hi" class="center"/>
+<p class="paragraph">
+	My second project was a metroidvania in a sci-fi scene. After more than a year and a half of development with one of my colleague we stop this project for a more adaptative engine: Unity.
+</p>
+
+<p class="paragraph">
+	During this project I was mainly doing level design, story writing and developing.
+</p>
+
+<div class="end-paragraph-link">The project was not polished enough to be published on Itch.io</div>
