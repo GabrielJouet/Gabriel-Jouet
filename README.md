@@ -16,7 +16,7 @@
 	I am making these projects as a hobbyist because game development is not a part of my IT engineering courses.
 </p>
 
-<p class="paragraph-link">
+<p class="centered">
 	<a href = "https://gabriel-jouet.itch.io/">Itch.io</a> |
 	<a href = "https://www.linkedin.com/in/gabriel-jouet-2909aa15a/">LinkedIn</a> |
 	<a href = "https://github.com/GabrielJouet">GitHub</a>
@@ -30,7 +30,7 @@
 	By combining our experiences, skills and our IT Engineering courses we are able to create small playable prototypes as hobbyists.
 </p>
 
-<p class="paragraph-link">
+<p class="centered">
 	<a href = "https://wild-box-studio.github.io/Wild-Box-Studio/">Information</a> |
 	<a href = "https://github.com/Wild-Box-Studio">GitHub</a>
 </p>
@@ -68,7 +68,7 @@
 ### Juan y Carlos
 <img src="Juan y Carlos.png" alt="hi" class="center"/>
 
-<p class="paragraph-link">
+<p class="centered">
 	My latest project is a cooperative puzzle game jam project made for the <a href="https://itch.io/jam/gmtk-2021">GMTK Game Jam 2021</a>. It was created under 48 hours in June 2021 with 3 of my colleagues.
 
 	<br>
@@ -83,7 +83,7 @@
 ### Wild Fibers
 <img src="Wild Fibers.png" alt="hi" class="center"/>
 
-<p class="paragraph-link">
+<p class="centered">
 	My biggest project so far is a Tower Defense where you play as plants that needs to defend themselves against hungry insects. This project begins in May 2020 and is still going. I am working with one colleague.
 	
 	<br>
@@ -99,7 +99,7 @@
 ### Four Dungeons
 <img src="Four Dungeons.png" alt="hi" class="center"/>
 
-<p class="paragraph-link">
+<p class="centered">
 	My second biggest project on Unity is a Roguelite created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam. It was created in a month on March 2020 with 2 of my colleagues.
 
 	<br>
@@ -108,14 +108,14 @@
 	
 	<br>
 
-	<a href = "https://sydiko.itch.io/four-dungeons"  class="end-paragraph-link">Itch.io page</a> 
+	<a href = "https://sydiko.itch.io/four-dungeons">Itch.io page</a> 
 </p>
 
 
 ### Space Destructor
 <img src="Space Destructor.png" alt="hi" class="center"/>
 
-<p class="paragraph-link">
+<p class="centered">
 	My first completed project on Unity was a bullet hell with endless waves of enemies. It was done under two months in July 2019 and helped me to understand Unity.
 	
 	<br>
@@ -131,7 +131,7 @@
 ### Earth's Disaster
 <img src="Earth's Disaster.png" alt="hi" class="center"/>
 
-<p class="paragraph-link">
+<p class="centered">
 	My second project was a metroidvania in a sci-fi scene. After more than a year and a half of development with one of my colleague we stop this project for a more adaptative engine: Unity.
 
 	<br>
