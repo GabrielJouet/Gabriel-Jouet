@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="Style.css">
-<img src="Gab Banner.png" alt="hi" class="figure"/>
+<img src="Gab Banner.png" alt="hi" class="banner"/>
 
 ## Who I am?
 <p class="paragraph">
@@ -66,7 +66,7 @@
 
 ## My Works
 ### Juan y Carlos
-<img src="Juan y Carlos.png" alt="hi" class="center"/>
+<img src="Juan y Carlos.png" alt="hi" class="figure"/>
 
 <p class="centered">
 	My latest project is a cooperative puzzle game jam project made for the <a href="https://itch.io/jam/gmtk-2021">GMTK Game Jam 2021</a>. It was created under 48 hours in June 2021 with 3 of my colleagues.
@@ -81,7 +81,7 @@
 
 
 ### Wild Fibers
-<img src="Wild Fibers.png" alt="hi" class="center"/>
+<img src="Wild Fibers.png" alt="hi" class="figure"/>
 
 <p class="centered">
 	My biggest project so far is a Tower Defense where you play as plants that needs to defend themselves against hungry insects. This project begins in May 2020 and is still going. I am working with one colleague.
@@ -97,7 +97,7 @@
 
 
 ### Four Dungeons
-<img src="Four Dungeons.png" alt="hi" class="center"/>
+<img src="Four Dungeons.png" alt="hi" class="figure"/>
 
 <p class="centered">
 	My second biggest project on Unity is a Roguelite created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam. It was created in a month on March 2020 with 2 of my colleagues.
@@ -113,7 +113,7 @@
 
 
 ### Space Destructor
-<img src="Space Destructor.png" alt="hi" class="center"/>
+<img src="Space Destructor.png" alt="hi" class="figure"/>
 
 <p class="centered">
 	My first completed project on Unity was a bullet hell with endless waves of enemies. It was done under two months in July 2019 and helped me to understand Unity.
@@ -129,7 +129,7 @@
 
 
 ### Earth's Disaster
-<img src="Earth's Disaster.png" alt="hi" class="center"/>
+<img src="Earth's Disaster.png" alt="hi" class="figure"/>
 
 <p class="centered">
 	My second project was a metroidvania in a sci-fi scene. After more than a year and a half of development with one of my colleague we stop this project for a more adaptative engine: Unity.
