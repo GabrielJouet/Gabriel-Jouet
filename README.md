@@ -79,6 +79,8 @@
 	<a href = "https://sydiko.itch.io/juan-y-carlos">Itch.io page</a>  
 </p>
 
+<br>
+
 
 ### Wild Fibers
 <img src="Wild Fibers.png" alt="hi" class="figure"/>
@@ -94,6 +96,8 @@
 
 	The project is not ready yet
 </p>
+
+<br>
 
 
 ### Four Dungeons
@@ -111,6 +115,8 @@
 	<a href = "https://sydiko.itch.io/four-dungeons">Itch.io page</a> 
 </p>
 
+<br>
+
 
 ### Space Destructor
 <img src="Space Destructor.png" alt="hi" class="figure"/>
@@ -126,6 +132,8 @@
 
 	<a href = "https://gabriel-jouet.itch.io/space-destructor/">Itch.io page</a>  
 </p>
+
+<br>
 
 
 ### Earth's Disaster
