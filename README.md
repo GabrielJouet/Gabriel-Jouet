@@ -75,8 +75,6 @@
 		I was in charge of developing enemies, building environment and level design.
 </p>
 
-<br>
-
 <p class="centered">
 	<a href = "https://sydiko.itch.io/juan-y-carlos">Itch.io page</a>  
 </p>
@@ -94,8 +92,6 @@
 
 	I am in charge of development (towers, enemies, UI and more), design and additional graphics if needed.
 </p>
-
-<br>
 
 <p class="centered">
 	The project is not ready yet and is not published on Itch.io
@@ -115,8 +111,6 @@
 	I was in charge of level design and development (movement, dungeon creation and traps).
 </p>
 
-<br>
-
 <p class="centered">
 	<a href = "https://sydiko.itch.io/four-dungeons">Itch.io page</a> 
 </p>
@@ -135,8 +129,6 @@
 	I was working alone on this project, but, one of the member of Wild Box helped me with the music theme.
 </p>
 
-<br>
-
 <p class="centered">
 	<a href = "https://gabriel-jouet.itch.io/space-destructor/">Itch.io page</a>  
 </p>
@@ -154,8 +146,6 @@
 
 	During this project I was mainly doing level design, story writing and developing.
 </p>
-
-<br>
 
 <p class="centered">
 	The project was not polished enough to be published on Itch.io
