@@ -31,7 +31,6 @@
 </p>
 
 <p class="centered">
-	<a href = "https://wild-box-studio.github.io/Wild-Box-Studio/">Information</a> |
 	<a href = "https://github.com/Wild-Box-Studio">GitHub</a>
 </p>
 
