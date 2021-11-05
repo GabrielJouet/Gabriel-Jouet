@@ -99,7 +99,7 @@
 <img src="Wild Fibers.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My biggest project so far is a <strong>Tower Defense game</strong> where you play as plants that needs to defend themselves against hungry insects. This project begins in May 2020 and is still going. I am working with one colleague.
+	My biggest project so far is a <strong>Tower Defense game</strong> where you play as plants that needs to defend themselves against hungry insects. This project begins in May 2020 and ends in November 2021. I am working with one colleague.
 	
 	<br>
 
@@ -107,7 +107,7 @@
 </p>
 
 <p class="centered">
-	The project is not ready yet and is not published on Itch.io
+	<a href = "https://gabriel-jouet.itch.io/wffb">Itch.io page</a>
 </p>
 
 <br>
