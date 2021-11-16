@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="Style.css">
 <img src="Gab Banner.png" alt="hi" class="banner"/>
 
-## Who I am?
+## Who am I?
 <p class="paragraph">
 	I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.
 	I spent most of my personnal time developing video games with the game engine <strong>Unity</strong>, however, my first projects were created using <strong>Game Maker Studio 2</strong> and <strong>RPG Maker VX Ace</strong>, but these engines were too restrictive for us. 
