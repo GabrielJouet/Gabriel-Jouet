@@ -18,3 +18,7 @@
 .centered {
  text-align: center;
 }
+
+header {
+  display: none;
+}
