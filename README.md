@@ -3,12 +3,12 @@
 
 ## Who am I?
 <p class="paragraph">
-	I am a French IT engineer student at CESI Lille in France. I am currently in my fourth year of IT Engineering out of five.
-	I spent most of my personnal time developing video games with the game engine <strong>Unity</strong>, however, my first projects were created using <strong>Game Maker Studio 2</strong> and <strong>RPG Maker VX Ace</strong>, but these engines were too restrictive for us. 
+	I am a French IT engineer student at CESI Lille in France. I am currently in my fifth year of IT Engineering out of five.
+	I spent most of my personnal time developing video games with the game engine <strong>Unity</strong>. However, my first projects were created using <strong>Game Maker Studio 2</strong> and <strong>RPG Maker VX Ace</strong>. But these engines were too restrictive for us. 
 </p>
 
 <p class="paragraph">
-	Hopefully, I do not work alone, I created in 2017 with <a href ="https://www.linkedin.com/in/antonin-jacob-lille/">Antonin Jacob</a> (do not hesitate to check its work too <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
+	Hopefully, I do not work alone. I created in 2017 with <a href ="https://www.linkedin.com/in/antonin-jacob-lille/">Antonin Jacob</a> (do not hesitate to check its work too <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
 	Most of my works and prototypes are related to this club, even if I make some prototypes (and write some novels and role playing games) alone.
 </p>
 
@@ -27,7 +27,7 @@
 <p class="paragraph">
 	Wild Box Studio is a video game development club I created with <a href ="https://www.linkedin.com/in/antonin-jacob-lille/">Antonin Jacob</a> in 2017. 
 	We try making and developing games with our basic knowledge of the video game industry. 
-	By combining our experiences, skills and our IT Engineering courses we are able to create small playable prototypes as hobbyists.
+	By combining our experiences, skills and our IT Engineering courses, we are able to create small playable prototypes as hobbyists.
 </p>
 
 <p class="centered">
@@ -68,7 +68,7 @@
 <img src="Evolution-Simulation.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My current side project is a <strong>3D evolution simulation</strong>. Whith a 3D Perlin Noise generated terrain, entities lives and evolves in this environnement. This project begins in June 2021 and is still going. I am working alone.
+	My current side project is a <strong>3D evolution simulation</strong>. Whith a 3D Perlin Noise generated terrain, entities live and evolve in this environnement. This project begun in June 2021 and is still going.
 </p>
 
 <p class="centered">
@@ -99,7 +99,11 @@
 <img src="Wild Fibers.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My biggest project so far is a <strong>Tower Defense game</strong> where you play as plants that needs to defend themselves against hungry insects. This project begins in May 2020 and ends in November 2021. I am working with one colleague.
+	My biggest project, so far, is a <strong>Tower Defense game</strong> where you play as plants that need to defend themselves against hungry insects. 
+
+	<br>
+
+	This project begun in May 2020 and ends in November 2021. I am working with one colleague.
 	
 	<br>
 
@@ -117,7 +121,11 @@
 <img src="Four Dungeons.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My second biggest project on Unity is a <strong>Roguelite</strong> created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam. It was created in a month on March 2020 with 2 of my colleagues.
+	My second biggest project on Unity is a <strong>Roguelite</strong> created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam. 
+
+	<br>
+
+	It was created in a month on March 2020 with 2 of my colleagues.
 
 	<br>
 
@@ -153,11 +161,15 @@
 <img src="Earth's Disaster.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My first real project was a <strong>Metroidvania in a sci-fi scene</strong>. After more than a year and a half of development with one of my colleague we stop this project for a more adaptative engine: Unity.
+	My first real project was a <strong>Metroidvania in a sci-fi scene</strong>. 
+
+	<br>
+	
+	After a year and a half of development, with one of my colleague, we stop this project for a more adaptative engine: Unity.
 
 	<br>
 
-	During this project I was mainly doing level design, story writing and developing.
+	During this project, I was mainly doing level design, story writing and developing.
 </p>
 
 <p class="centered">
