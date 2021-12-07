@@ -133,11 +133,11 @@
 ## Archived works
 <div class="archive">
 	<div class="column">
-		<img src="Evolution-Simulation.png" alt="hi" class="figure"/>
-		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" alt="hi" class="figure"/></a>
+		<img src="Evolution-Simulation.png" alt="hi"/>
+		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" alt="hi"/></a>
 	</div>
 	<div class="column">
-		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" alt="hi" class="figure"/></a>
-		<img src="Earth's Disaster.png" alt="hi" class="figure"/>
+		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" alt="hi"/></a>
+		<img src="Earth's Disaster.png" alt="hi"/>
 	</div>
 </div>
