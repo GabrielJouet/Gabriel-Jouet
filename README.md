@@ -63,16 +63,30 @@
 </p>
 
 
-## My Works
-### Simulation of Evolution
-<img src="Evolution-Simulation.png" alt="hi" class="figure"/>
+## Recent Works
+### Ruins of Akate
+<img src="Ruins of Akate.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My current side project is a <strong>3D evolution simulation</strong>. Whith a 3D Perlin Noise generated terrain, entities live and evolve in this environnement. This project begun in June 2021 and is still going.
+	Ruins of Akate is a <strong>survival</strong> game with random generation elements. Your goal is to survive within a harsh environment.
 </p>
 
 <p class="centered">
-	This project will not be published on Itch.io
+	This project is still in a prototype state 
+</p>
+
+<br>
+
+
+### Laser Run
+<img src="Laser Run.png" alt="hi" class="figure"/>
+
+<p class="centered">
+	Laser Run is a <strong>ability challenging</strong> game. You have to stay alive in these areas by dodging waves of lasers coming at you.
+</p>
+
+<p class="centered">
+	This project is still in a prototype state 
 </p>
 
 <br>
@@ -82,10 +96,11 @@
 <img src="Juan y Carlos.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My latest project is a <strong>cooperative puzzle game jam project</strong> made for the <a href="https://itch.io/jam/gmtk-2021">GMTK Game Jam 2021</a>. It was created under 48 hours in June 2021 with 3 of my colleagues.
+	Juan y Carlos is a <strong>cooperative puzzle game jam project</strong> made for the <a href="https://itch.io/jam/gmtk-2021">GMTK Game Jam 2021</a>. It was created under 48 hours in June 2021 with 3 of my colleagues.
 
 	<br>
-		I was in charge of developing enemies, building environment and level design.
+
+	I was in charge of developing enemies, building environment and level design.
 </p>
 
 <p class="centered">
@@ -114,21 +129,22 @@
 	<a href = "https://gabriel-jouet.itch.io/wffb">Itch.io page</a>
 </p>
 
-<br>
+
+## Archived works
+### Simulation of Evolution
+<img src="Evolution-Simulation.png" alt="hi" class="archivedFigure"/>
+
+<p class="centered">
+	My current side project is a <strong>3D evolution simulation</strong>. Whith a 3D Perlin Noise generated terrain, entities live and evolve in this environnement. This project begun in June 2021 and is still going.
+</p>
 
 
 ### Four Dungeons
 <img src="Four Dungeons.png" alt="hi" class="figure"/>
 
 <p class="centered">
-	My second biggest project on Unity is a <strong>Roguelite</strong> created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam. 
-
-	<br>
-
+	My second biggest project on Unity is a <strong>Roguelite</strong> created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam.
 	It was created in a month on March 2020 with 2 of my colleagues.
-
-	<br>
-
 	I was in charge of level design and development (movement, dungeon creation and traps).
 </p>
 
@@ -136,17 +152,12 @@
 	<a href = "https://sydiko.itch.io/four-dungeons">Itch.io page</a> 
 </p>
 
-<br>
-
 
 ### Space Destructor
-<img src="Space Destructor.png" alt="hi" class="figure"/>
+<img src="Space Destructor.png" alt="hi" class="archivedFigure"/>
 
 <p class="centered">
 	My first completed project on Unity was a <strong>Bullet Hell</strong> with endless waves of enemies. It was done under two months in July 2019 and helped me to understand Unity.
-	
-	<br>
-
 	I was working alone on this project, but, one of the member of Wild Box helped me with the music theme.
 </p>
 
@@ -154,24 +165,11 @@
 	<a href = "https://gabriel-jouet.itch.io/space-destructor/">Itch.io page</a>  
 </p>
 
-<br>
-
 
 ### Earth's Disaster
-<img src="Earth's Disaster.png" alt="hi" class="figure"/>
+<img src="Earth's Disaster.png" alt="hi" class="archivedFigure"/>
 
 <p class="centered">
-	My first real project was a <strong>Metroidvania in a sci-fi scene</strong>. 
-
-	<br>
-	
-	After a year and a half of development, with one of my colleague, we stop this project for a more adaptative engine: Unity.
-
-	<br>
-
+	My first real project was a <strong>Metroidvania in a sci-fi scene</strong>.
 	During this project, I was mainly doing level design, story writing and developing.
-</p>
-
-<p class="centered">
-	The project was not polished enough to be published on Itch.io
 </p>

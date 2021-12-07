@@ -5,6 +5,13 @@
  width: 50%;
 }
 
+.archivedFigure {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 40%;
+}
+
 .banner {
  display: block;
  margin-left: auto;
