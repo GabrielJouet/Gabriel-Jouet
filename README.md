@@ -132,21 +132,11 @@
 
 ## Archived works
 ### Simulation of Evolution
-<img src="Evolution-Simulation.png" alt="hi" class="archivedFigure"/>
-
-<p class="centered">
-	My current side project is a <strong>3D evolution simulation</strong>. Whith a 3D Perlin Noise generated terrain, entities live and evolve in this environnement. This project begun in June 2021 and is still going.
-</p>
+<img src="Evolution-Simulation.png" alt="hi" class="figure"/>
 
 
 ### Four Dungeons
 <img src="Four Dungeons.png" alt="hi" class="figure"/>
-
-<p class="centered">
-	My second biggest project on Unity is a <strong>Roguelite</strong> created for the <a href="https://itch.io/jam/persistent-roguelike-jam">Persistent Roguelike Jam</a> game jam.
-	It was created in a month on March 2020 with 2 of my colleagues.
-	I was in charge of level design and development (movement, dungeon creation and traps).
-</p>
 
 <p class="centered">
 	<a href = "https://sydiko.itch.io/four-dungeons">Itch.io page</a> 
@@ -154,12 +144,7 @@
 
 
 ### Space Destructor
-<img src="Space Destructor.png" alt="hi" class="archivedFigure"/>
-
-<p class="centered">
-	My first completed project on Unity was a <strong>Bullet Hell</strong> with endless waves of enemies. It was done under two months in July 2019 and helped me to understand Unity.
-	I was working alone on this project, but, one of the member of Wild Box helped me with the music theme.
-</p>
+<img src="Space Destructor.png" alt="hi" class="figure"/>
 
 <p class="centered">
 	<a href = "https://gabriel-jouet.itch.io/space-destructor/">Itch.io page</a>  
@@ -167,9 +152,4 @@
 
 
 ### Earth's Disaster
-<img src="Earth's Disaster.png" alt="hi" class="archivedFigure"/>
-
-<p class="centered">
-	My first real project was a <strong>Metroidvania in a sci-fi scene</strong>.
-	During this project, I was mainly doing level design, story writing and developing.
-</p>
+<img src="Earth's Disaster.png" alt="hi" class="figure"/>
