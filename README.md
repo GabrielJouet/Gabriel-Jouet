@@ -131,25 +131,13 @@
 
 
 ## Archived works
-### Simulation of Evolution
-<img src="Evolution-Simulation.png" alt="hi" class="figure"/>
-
-
-### Four Dungeons
-<img src="Four Dungeons.png" alt="hi" class="figure"/>
-
-<p class="centered">
-	<a href = "https://sydiko.itch.io/four-dungeons">Itch.io page</a> 
-</p>
-
-
-### Space Destructor
-<img src="Space Destructor.png" alt="hi" class="figure"/>
-
-<p class="centered">
-	<a href = "https://gabriel-jouet.itch.io/space-destructor/">Itch.io page</a>  
-</p>
-
-
-### Earth's Disaster
-<img src="Earth's Disaster.png" alt="hi" class="figure"/>
+<div class="archive">
+	<div class="column">
+		<img src="Evolution-Simulation.png" alt="hi" class="figure"/>
+		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" alt="hi" class="figure"/></a>
+	</div>
+	<div class="column">
+		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" alt="hi" class="figure"/></a>
+		<img src="Earth's Disaster.png" alt="hi" class="figure"/>
+	</div>
+</div>
