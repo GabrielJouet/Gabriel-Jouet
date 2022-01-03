@@ -133,11 +133,22 @@
 ## Archived works
 <div class="archive">
 	<div class="column">
-		<img src="Evolution-Simulation.png" alt="hi"/>
-		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" alt="hi"/></a>
+		<div class="container">
+			<img src="Evolution-Simulation.png" alt="hi" class="archivedImage"/>
+			<div class="centeredInsideImage hide">
+				<p>
+					Evolution Simulation
+				</p>
+				<p>
+					Still in prototype state
+				</p>
+			</div>
+		</div>
+
+		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" alt="hi" class="archivedImage"/></a>
 	</div>
 	<div class="column">
-		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" alt="hi"/></a>
-		<img src="Earth's Disaster.png" alt="hi"/>
+		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" alt="hi" class="archivedImage"/></a>
+		<img src="Earth's Disaster.png" alt="hi" class="archivedImage"/>
 	</div>
 </div>
