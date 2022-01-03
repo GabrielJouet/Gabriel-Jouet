@@ -134,21 +134,58 @@
 <div class="archive">
 	<div class="column">
 		<div>
-			<img src="Evolution-Simulation.png" class="archivedImage">
+			<img src="Evolution-Simulation.png">
 			<div class="centered">
+				<br>
 				<p>
-					Evolution Simulation
+					3D Perlin Noise generator
 				</p>
 				<p>
-					Still in prototype state
+					This project is still in a prototype state
 				</p>
 			</div>
 		</div>
-
-		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" class="archivedImage"/></a>
+		<div>
+			<img src="Four Dungeons.png">
+			<div class="centered">
+				<br>
+				<p>
+					Four Dungeons
+				</p>
+				<p>
+					<a href = "https://sydiko.itch.io/four-dungeons">
+						Itch.io page
+					</a>
+				</p>
+			</div>
+		</div>
 	</div>
 	<div class="column">
-		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" class="archivedImage"/></a>
-		<img src="Earth's Disaster.png" class="archivedImage"/>
+		<div>
+			<img src="Space Destructor.png">
+			<div class="centered">
+				<br>
+				<p>
+					Space Destructor
+				</p>
+				<p>
+					<a href = "https://gabriel-jouet.itch.io/space-destructor/">
+						Itch.io page
+					</a>
+				</p>
+			</div>
+		</div>
+		<div>
+			<img src="Earth's Disaster.png">
+			<div class="centered">
+				<br>
+				<p>
+					Earth's Disaster
+				</p>
+				<p>
+					This project was abandonned
+				</p>
+			</div>
+		</div>
 	</div>
 </div>
