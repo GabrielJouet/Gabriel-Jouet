@@ -49,3 +49,8 @@
 .archivedImage:hover + .hide {
   display: block;
 }
+
+.container {
+  text-align: center;
+  color: white;
+}

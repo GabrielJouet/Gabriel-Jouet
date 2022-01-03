@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="Style.css">
-<img src="Gab Banner.png" alt="hi" class="banner"/>
+<img src="Gab Banner.png" class="banner"/>
 
 ## Who am I?
 <p class="paragraph">
@@ -65,7 +65,7 @@
 
 ## Recent Works
 ### Ruins of Akate
-<img src="Ruins of Akate.png" alt="hi" class="figure"/>
+<img src="Ruins of Akate.png" class="figure"/>
 
 <p class="centered">
 	Ruins of Akate is a <strong>survival</strong> game with random generation elements. Your goal is to survive within a harsh environment.
@@ -79,7 +79,7 @@
 
 
 ### Laser Run
-<img src="Laser Run.png" alt="hi" class="figure"/>
+<img src="Laser Run.png" class="figure"/>
 
 <p class="centered">
 	Laser Run is a <strong>ability challenging</strong> game. You have to stay alive in these areas by dodging waves of lasers coming at you.
@@ -93,7 +93,7 @@
 
 
 ### Juan y Carlos
-<img src="Juan y Carlos.png" alt="hi" class="figure"/>
+<img src="Juan y Carlos.png" class="figure"/>
 
 <p class="centered">
 	Juan y Carlos is a <strong>cooperative puzzle game jam project</strong> made for the <a href="https://itch.io/jam/gmtk-2021">GMTK Game Jam 2021</a>. It was created under 48 hours in June 2021 with 3 of my colleagues.
@@ -111,7 +111,7 @@
 
 
 ### Wild Fibers
-<img src="Wild Fibers.png" alt="hi" class="figure"/>
+<img src="Wild Fibers.png" class="figure"/>
 
 <p class="centered">
 	My biggest project, so far, is a <strong>Tower Defense game</strong> where you play as plants that need to defend themselves against hungry insects. 
@@ -133,8 +133,8 @@
 ## Archived works
 <div class="archive">
 	<div class="column">
-		<div>
-			<img src="Evolution-Simulation.png" alt="hi" class="archivedImage"/>
+		<div class="container">
+			<img src="Evolution-Simulation.png" class="archivedImage">
 			<div class="centeredInsideImage hide">
 				<p>
 					Evolution Simulation
@@ -145,10 +145,10 @@
 			</div>
 		</div>
 
-		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" alt="hi" class="archivedImage"/></a>
+		<a href = "https://sydiko.itch.io/four-dungeons"><img src="Four Dungeons.png" class="archivedImage"/></a>
 	</div>
 	<div class="column">
-		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" alt="hi" class="archivedImage"/></a>
-		<img src="Earth's Disaster.png" alt="hi" class="archivedImage"/>
+		<a href = "https://gabriel-jouet.itch.io/space-destructor/"><img src="Space Destructor.png" class="archivedImage"/></a>
+		<img src="Earth's Disaster.png" class="archivedImage"/>
 	</div>
 </div>
