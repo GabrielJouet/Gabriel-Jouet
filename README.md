@@ -83,6 +83,10 @@
 
 <p class="centered">
 	Laser Run is a <strong>ability challenging</strong> game. You have to stay alive in these areas by dodging waves of lasers coming at you.
+	
+	<br>
+
+	This project begun in October 2021 and ends in December 2021.
 </p>
 
 <p class="centered">
