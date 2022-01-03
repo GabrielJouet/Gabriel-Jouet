@@ -39,12 +39,6 @@
   display: none;
 }
 
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
 .centeredInsideImage {
   position: absolute;
   top: 50%;

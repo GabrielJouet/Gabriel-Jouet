@@ -133,7 +133,7 @@
 ## Archived works
 <div class="archive">
 	<div class="column">
-		<div class="container">
+		<div>
 			<img src="Evolution-Simulation.png" alt="hi" class="archivedImage"/>
 			<div class="centeredInsideImage hide">
 				<p>
