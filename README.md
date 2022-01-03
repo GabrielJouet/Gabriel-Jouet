@@ -8,7 +8,7 @@
 </p>
 
 <p class="paragraph">
-	Hopefully, I do not work alone. I created in 2017 with <a href ="https://www.linkedin.com/in/antonin-jacob-lille/">Antonin Jacob</a> (do not hesitate to check its work too <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
+	Hopefully, I do not work alone. I created in 2017 with <a href ="https://www.linkedin.com/in/antonin-jacob-lille/">Antonin Jacob</a> (do not hesitate to check his work too <a href = "https://sheepybullet.itch.io/">sheepybullet.itch.io</a>) a video game development club called Wild Box Studio.
 	Most of my works and prototypes are related to this club, even if I make some prototypes (and write some novels and role playing games) alone.
 </p>
 
@@ -72,7 +72,7 @@
 </p>
 
 <p class="centered">
-	This project is still in a prototype state 
+	<a href = "https://gabriel-jouet.itch.io/laser-run">Itch.io page</a>
 </p>
 
 <br>
