@@ -72,7 +72,7 @@
 </p>
 
 <p class="centered">
-	<a href = "https://gabriel-jouet.itch.io/laser-run">Itch.io page</a>
+	This project is still in a prototype state 
 </p>
 
 <br>
@@ -86,7 +86,7 @@
 </p>
 
 <p class="centered">
-	This project is still in a prototype state 
+	<a href = "https://gabriel-jouet.itch.io/laser-run">Itch.io page</a>
 </p>
 
 <br>
