@@ -133,9 +133,9 @@
 ## Archived works
 <div class="archive">
 	<div class="column">
-		<div class="container">
+		<div>
 			<img src="Evolution-Simulation.png" class="archivedImage">
-			<div class="centeredInsideImage hide">
+			<div class="centered">
 				<p>
 					Evolution Simulation
 				</p>

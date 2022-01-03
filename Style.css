@@ -34,23 +34,3 @@
   margin-top: 8px;
   vertical-align: middle;
 }
-
-.hide {
-  display: none;
-}
-
-.centeredInsideImage {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-    
-.archivedImage:hover + .hide {
-  display: block;
-}
-
-.container {
-  text-align: center;
-  color: white;
-}
