@@ -141,7 +141,7 @@
 					3D Perlin Noise generator
 				</p>
 				<p>
-					This project is still in a prototype state
+					Not available for now
 				</p>
 			</div>
 		</div>
@@ -183,7 +183,7 @@
 					Earth's Disaster
 				</p>
 				<p>
-					This project was abandonned
+					Not available for now
 				</p>
 			</div>
 		</div>
